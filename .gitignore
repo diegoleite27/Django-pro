@@ -1,3 +1,5 @@
 venv
 db.sqlite3
 webdev/__pycache__
+mycontacts/__pycache__
+mycontacts/migrations/__pycache__
